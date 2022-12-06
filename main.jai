@@ -8,11 +8,8 @@
 #run build_ctags(#file);
 
 main :: () {  
-	
 
 	badv4();
-
-
 	
 }
     
