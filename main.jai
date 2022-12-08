@@ -2,14 +2,14 @@
 
 #import "../../jai-ctags";
 
-#load "badv4.jai";
+#load "badv8.jai";
 
 
 #run build_ctags(#file);
 
 main :: () {  
 
-	badv4();
+	badv8();
 	
 }
     
