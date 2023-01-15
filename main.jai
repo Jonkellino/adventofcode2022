@@ -2,7 +2,7 @@
 
 #import "../../jai-ctags";
 
-#load "badv11.jai";
+#load "badv12.jai";
 
 
 #run build_ctags(#file);
@@ -10,7 +10,7 @@
 main :: () {  
 
 
-	badv11();
+	badv12();
 	
 }
     
